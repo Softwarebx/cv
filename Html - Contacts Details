@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ut f-8">
+<title>Contact Me</title>
+</head>
+<body>
+<h1>My Contact Details</h1>
+<p>My Fictional Add ress</p>
+<p>877263718463</p>
+<p>myemai legmail. com</p>
+<form class="" action="index.html" method="post">
+<label>Your Name:</label>
+<input type=" text" name="" value="" >
+<input type=" color" name=""value="" >
+<input type="submit" name-="" >
+</form>
+</body>
+</html>
